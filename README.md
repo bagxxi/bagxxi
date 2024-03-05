@@ -4,3 +4,13 @@
   <h3 align="center">Desarrollador Fullstack, en la parte de Frontend muy orientado al UX/UI, es más probable que me veas programando en React y Astro.
   En la parte Backend, prefiero Python, donde busco desarrollarme con Data Analyst.</h3>
 </div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/gabrielbalbontin/">
+    <img src="https://img.shields.io/badge/linkedin-profesional-linkedin?style=for-the-badge&logo=linkedin&logoColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabrielbalbontin%2F" />
+  </a>
+  <a href="https://gabrielbalbontin.info">
+    <img src="https://img.shields.io/badge/portfolio-profesional-astro?style=for-the-badge&logo=astro&link=https%3A%2F%2Fgabrielbalbontin.info" />
+  </a>
+</div>
+
