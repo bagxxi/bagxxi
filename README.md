@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21va2VicnUzcHpyZDVuZm42MnA0ajFpbmhtN3JpanA0NnN6ZXlpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
-  <h1 align="center">GitHub de Galo</h1>
+  <h1 align="center">GitHub de GaloDev</h1>
   <h3 align="center">Desarrollador Fullstack, en la parte de Frontend muy orientado al UX/UI, es más probable que me veas programando en React y Astro.
   En la parte Backend, prefiero Python, donde busco desarrollarme con Data Analysis.</h3>
 </div>
@@ -35,3 +35,11 @@
 </div>
 
 ---
+
+### Mis estadísticas en GitHub:
+
+[![Racha en GitHub de GaloDev](https://github-readme-streak-stats.herokuapp.com?user=bagxxi&theme=onedark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Galo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagxxi&show_icons=true&theme=onedark&locale=es)](https://github.com/bagxxi/github-readme-stats)
+
+[![GaloDev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagxxi&show_icons=true&theme=onedark&locale=es)](https://github.com/bagxxi/github-readme-stats)
