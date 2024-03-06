@@ -16,7 +16,7 @@
 
 ---
 
-### Lenguajes, herramientas y proyectos en repositorios:
+### Lenguajes y herramientas preferidas:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
